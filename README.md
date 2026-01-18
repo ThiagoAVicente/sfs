@@ -9,7 +9,8 @@ SFS allows you to index files and search their content using natural language qu
 
 ## Architecture
 
-![[architecture.png]]
+![architecture](images/architecture.png)
+
 ## Components
 
 | Component       | Description                                            | Link                                                    |
